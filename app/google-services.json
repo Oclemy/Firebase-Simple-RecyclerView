@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "417257625952",
+    "firebase_url": "https://simplerecycler.firebaseio.com",
+    "project_id": "simplerecycler",
+    "storage_bucket": "simplerecycler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417257625952:android:1e01781594682b1f",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasesimplerecycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417257625952-t23d8m4hao37qfcpcm1vv95nfng2gqdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDvMjwPQyVCX70APaPJquT38TdQu0UCbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417257625952:android:593c658d6e121a47",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasesimplerecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417257625952-t23d8m4hao37qfcpcm1vv95nfng2gqdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDvMjwPQyVCX70APaPJquT38TdQu0UCbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
